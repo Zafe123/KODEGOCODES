@@ -1,0 +1,48 @@
+/*<link rel="stylesheet" type="text/css" href="style.css">*/
+
+p {
+    color: blue;
+    font-style: italic;
+    font-weight: bold;
+}
+
+#a1 {
+    color: blue;
+    font-style: italic;
+    font-weight: bold;
+}
+
+#a1:hover {
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+}
+
+td {
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+}
+
+#register {
+    color: blue;
+    font-size: 25px;
+    border: 2px solid black;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.btn {
+    background-color: blue;
+    color:white;
+
+}
+
+.btn:hover{
+    background-color: red;
+    color:white;
+
+}
